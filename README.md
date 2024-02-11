@@ -1,7 +1,5 @@
-<h1 align="center">Cictehro Electronics Shop<br></h1>
-<p align="center">
-<img src="" width="540" height="280" />
-</p> ## Cictehro Electronics Shop
+<h1 align="center" style="bold">Cictehro Electronics Shop<br></h1>
+
 
 Welcome to Cictehro Electronics Shop repository! This repository contains the code for the cictehro.com website, an online electronics shop.
 
