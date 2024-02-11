@@ -31,7 +31,7 @@ Once the development server is running, you can access the website at `http://lo
 
 - [TikTok](https://www.tiktok.com/@official_geddy?_t=8jHCdMft090&_r=1) - [![TIKTOK](https://cdn0.iconfinder.com/data/icons/font-awesome-brands-vol-2/512/tiktok-1024.png)](https://www.tiktok.com/@official_geddy?_t=8jHCdMft090&_r=1)
 
-- [WhatsApp](#) - [![https://pngtree.com/freepng/whatsapp-phone-icon_8704826.html](https://www.freepik.com/free-psd/3d-circle-with-whatsapp-logo-isolated-transparent-background_67574693.htm#query=whatsapp%20logo%20png&position=12&from_view=keyword&track=ais&uuid=7accf237-39ac-4c92-8b53-003934e38f49)](wa.me/254104166980)
+- [WhatsApp](#) - [![https://www.iconfinder.com/icons/287637/whatsapp_icon)](wa.me/254104166980)
 
 
 ## Contact
