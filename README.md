@@ -25,7 +25,7 @@ Once the development server is running, you can access the website at `http://lo
 
 ## Additional Links
 
-- [YouTube](#) - [![YouTube](https://cdn3.iconfinder.com/data/icons/social-network-30/512/social-06-1024.png)](#)
+- [YouTube](https://youtube.com/@cictehro?si=x1Pu4vLc7k4emoS2) - [![YouTube](https://cdn3.iconfinder.com/data/icons/social-network-30/512/social-06-1024.png)](https://youtube.com/@cictehro?si=x1Pu4vLc7k4emoS2)
 - [TikTok](#) - ![TikTok Photo](tiktok_photo.png)
 - [WhatsApp](#) - ![WhatsApp Photo](whatsapp_photo.png)
 
