@@ -42,8 +42,7 @@ Once the development server is running, you can access the website at `http://lo
 
 For any inquiries or support, feel free to reach out to us:
 - [GitHub Issues](https://github.com/savvydarknightc/cictehro.com/issues)
-- Email: ctronics.aid@gmail.com
-<p align="left">
+- Email: ctronics.aid@gmail.com <p align="left">
 <a href="https://wa.me/254104166980"><img src="https://img.shields.io/badge/Contact Cictehro-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /> 
 
 <p align="left">
