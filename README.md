@@ -20,12 +20,12 @@ Once the development server is running, you can access the website at `http://lo
 
 ## Credits
 
-- [SavvyDarkNightC](https://github.com/savvydarknight) - Main contributor and project maintainer
+- [SavvyDarkNight](https://github.com/savvydarknight) - Main contributor and project maintainer
 - [Cictehro](https://github.com/cictehro) - Inspiration and support
 
 ## Additional Links
 
-- [YouTube](#) - [![YouTube Logo](youtube_logo.png)](#)
+- [YouTube](#) - [![YouTube](https://cdn3.iconfinder.com/data/icons/social-network-30/512/social-06-1024.png)](#)
 - [TikTok](#) - ![TikTok Photo](tiktok_photo.png)
 - [WhatsApp](#) - ![WhatsApp Photo](whatsapp_photo.png)
 
