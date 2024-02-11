@@ -1,4 +1,4 @@
-```<h1 align="center"> Cictehro Electronics Shop </h1>```
+<h1 align="center"> Cictehro Electronics Shop </h1>
 
 
 Welcome to Cictehro Electronics Shop repository! This repository contains the code for the cictehro.com website, an online electronics shop.
