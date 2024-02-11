@@ -18,22 +18,28 @@ To run this project locally, follow these steps:
 
 Once the development server is running, you can access the website at `http://localhost:3000` in your web browser. Explore the different product categories, add items to your cart, and proceed to checkout.
 
+
 ## Credits
 
 - [SavvyDarkNight](https://github.com/savvydarknight) - Main contributor and project maintainer
 - [Cictehro](https://github.com/cictehro) - Inspiration and support
 
+
 ## Additional Links
 
 - [YouTube](https://youtube.com/@cictehro?si=x1Pu4vLc7k4emoS2) - [![YouTube](https://cdn3.iconfinder.com/data/icons/social-network-30/512/social-06-1024.png)](https://youtube.com/@cictehro?si=x1Pu4vLc7k4emoS2)
+
 - [TikTok](#) - ![TikTok Photo](tiktok_photo.png)
+
 - [WhatsApp](#) - ![WhatsApp Photo](whatsapp_photo.png)
+
 
 ## Contact
 
 For any inquiries or support, feel free to reach out to us:
 - [GitHub Issues](https://github.com/savvydarknightc/cictehro.com/issues)
-- Email: example@example.com
+- Email: ctronics.aid@gmail.com
+
 
 ## License
 
