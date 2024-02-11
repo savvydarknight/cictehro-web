@@ -29,13 +29,7 @@ Once the development server is running, you can access the website at `http://lo
 
 ## Additional Links
 
-<p align="left">
-<a href="https://wa.me/254104166980"><img src="https://img.shields.io/badge/Contact Cictehro-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /> 
 
-
-<p align="center">
-<a href="https://youtube.com/@cictehro?si=x1Pu4vLc7k4emoS2"><img title="Size" src="https://img.shields.io/badge/YouTube-red"></a>
-</p>
 
 - [YouTube](https://youtube.com/@cictehro?si=x1Pu4vLc7k4emoS2) - [![YouTube](https://cdn3.iconfinder.com/data/icons/social-network-30/512/social-06-1024.png)](https://youtube.com/@cictehro?si=x1Pu4vLc7k4emoS2)
 
@@ -50,6 +44,13 @@ For any inquiries or support, feel free to reach out to us:
 - [GitHub Issues](https://github.com/savvydarknightc/cictehro.com/issues)
 - Email: ctronics.aid@gmail.com
 
+- <p align="left">
+<a href="https://wa.me/254104166980"><img src="https://img.shields.io/badge/Contact Cictehro-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /> 
+
+
+<p align="center">
+<a href="https://youtube.com/@cictehro?si=x1Pu4vLc7k4emoS2"><img title="Size" src="https://img.shields.io/badge/YouTube-red"></a>
+</p> 
 
 ## License
 
