@@ -1,4 +1,4 @@
-<h1 align="center"> ```Cictehro Electronics Shop``` </h1>
+```<h1 align="center"> Cictehro Electronics Shop </h1>```
 
 
 Welcome to Cictehro Electronics Shop repository! This repository contains the code for the cictehro.com website, an online electronics shop.
@@ -32,6 +32,7 @@ Once the development server is running, you can access the website at `http://lo
 <p align="center">
 <a href="https://youtube.com/@cictehro?si=x1Pu4vLc7k4emoS2"><img title="Size" src="https://img.shields.io/badge/Tutorial-Video-green"></a>
 </p>
+
 - [YouTube](https://youtube.com/@cictehro?si=x1Pu4vLc7k4emoS2) - [![YouTube](https://cdn3.iconfinder.com/data/icons/social-network-30/512/social-06-1024.png)](https://youtube.com/@cictehro?si=x1Pu4vLc7k4emoS2)
 
 - [TikTok](https://www.tiktok.com/@official_geddy?_t=8jHCdMft090&_r=1) - [![TIKTOK](https://cdn0.iconfinder.com/data/icons/font-awesome-brands-vol-2/512/tiktok-1024.png)](https://www.tiktok.com/@official_geddy?_t=8jHCdMft090&_r=1)
