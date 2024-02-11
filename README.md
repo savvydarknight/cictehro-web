@@ -1,6 +1,6 @@
-<h1 align="center">ꪶ𝗖𝗵𝗲𝗲𝗺𝘀 𝗕𝗼𝘁-𝗠𝗗 𝗩8ꫂ<br></h1>
+<h1 align="center">Cictehro Electronics Shop<br></h1>
 <p align="center">
-<img src="https://i.ibb.co/cLtCXVm/cheemspic.jpg" width="540" height="280" />
+<img src="" width="540" height="280" />
 </p> ## Cictehro Electronics Shop
 
 Welcome to Cictehro Electronics Shop repository! This repository contains the code for the cictehro.com website, an online electronics shop.
