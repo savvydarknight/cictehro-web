@@ -34,7 +34,7 @@ Once the development server is running, you can access the website at `http://lo
 
 
 <p align="center">
-<a href="https://youtube.com/@cictehro?si=x1Pu4vLc7k4emoS2"><img title="Size" src="https://img.shields.io/badge/Tutorial-Video-green"></a>
+<a href="https://youtube.com/@cictehro?si=x1Pu4vLc7k4emoS2"><img title="Size" src="https://img.shields.io/badge/YouTube-red"></a>
 </p>
 
 - [YouTube](https://youtube.com/@cictehro?si=x1Pu4vLc7k4emoS2) - [![YouTube](https://cdn3.iconfinder.com/data/icons/social-network-30/512/social-06-1024.png)](https://youtube.com/@cictehro?si=x1Pu4vLc7k4emoS2)
