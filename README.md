@@ -44,11 +44,11 @@ For any inquiries or support, feel free to reach out to us:
 - [GitHub Issues](https://github.com/savvydarknightc/cictehro.com/issues)
 - Email: ctronics.aid@gmail.com
 
-<p align="left">
+-<p align="left">
 <a href="https://wa.me/254104166980"><img src="https://img.shields.io/badge/Contact Cictehro-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /> 
 
 
-<p align="left">
+-<p align="left">
 <a href="https://youtube.com/@cictehro?si=x1Pu4vLc7k4emoS2"><img title="Size" src="https://img.shields.io/badge/YouTube-red"></a>
 </p> 
 
