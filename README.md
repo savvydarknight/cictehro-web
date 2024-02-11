@@ -2,7 +2,6 @@
 
 Welcome to Cictehro Electronics Shop repository! This repository contains the code for the cictehro.com website, an online electronics shop.
 
-*The website is still under development*
 
 ## Description
 
@@ -47,3 +46,5 @@ For any inquiries or support, feel free to reach out to us:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
+
+*The website is still under development*
