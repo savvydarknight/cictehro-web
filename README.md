@@ -1,4 +1,4 @@
-<h1 align="center" style="bold">Cictehro Electronics Shop<br></h1>
+<h1 align="center" color="00BF">Cictehro Electronics Shop<br></h1>
 
 
 Welcome to Cictehro Electronics Shop repository! This repository contains the code for the cictehro.com website, an online electronics shop.
