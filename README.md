@@ -1,4 +1,4 @@
-# SavvyDarkNightC Electronics Shop
+## Cictehro Electronics Shop
 
 Welcome to the SavvyDarkNightC Electronics Shop repository! This repository contains the code for the cictehro.com website, an online electronics shop.
 
