@@ -29,8 +29,8 @@ Once the development server is running, you can access the website at `http://lo
 
 ## Additional Links
 
-<p align="center">
-<a href="https://wa.me/254104166980"><img src="https://img.shields.io/badge/Contact Xeon-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /> 
+<p align="left">
+<a href="https://wa.me/254104166980"><img src="https://img.shields.io/badge/Contact Cictehro-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /> 
 
 
 <p align="center">
