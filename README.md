@@ -35,7 +35,7 @@ Connect with us
 ## Contact
 
 For any inquiries or support, feel free to reach out to us:
-- [GitHub Issues](https://github.com/savvydarknightc/cictehro.com/issues)
+- [GitHub Issues](https://github.com/savvydarknight/cictehro-web/issues)
 - Email: ctronics.aid@gmail.com
 
 [![WhatsApp Badge](https://img.shields.io/badge/Contact%20Cictehro-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/254104166980)
