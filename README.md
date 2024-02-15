@@ -26,7 +26,8 @@ Once the development server is running, you can access the website at `http://lo
 ## Additional Links
 
  Explore video tutorials and products showcase [![YouTube Logo](https://cdn3.iconfinder.com/data/icons/social-network-30/512/social-06-1024.png)](https://youtube.com/@cictehro?si=x1Pu4vLc7k4emoS2)
- [![Tiktok logo] https://cdn0.iconfinder.com/data/icons/font-awesome-brands-vol-2/512/tiktok-1024.png](https://www.tiktok.com/@official_geddy?_t=8jHCdMft090&_r=1)
+
+[![Tiktok logo](https://cdn0.iconfinder.com/data/icons/font-awesome-brands-vol-2/512/tiktok-1024.png)](https://www.tiktok.com/@official_geddy?_t=8jHCdMft090&_r=1)
 
 [](https://wa.me/254104166980) Connect with us ![WhatsApp Logo](https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/375_Whatsapp_logo-1024.png)
 
